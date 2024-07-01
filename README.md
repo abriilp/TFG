@@ -1,7 +1,9 @@
 ### TFG: Ús de models de difusió per alterar la realitat física de les escenes
 
 **Autora:** Abril Piñol Chacon - 1604159
+
 **Tutor:** Ramon Baldrich Caselles
+
 Curs 2023-24, Universitat Autònoma de Barcelona (UAB)
 
 
